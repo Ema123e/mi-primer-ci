@@ -1,2 +1,3 @@
-# mi-primer-ci
-Ejercicio práctico de CI/CD
+pytest==7.3.1
+pytest-cov==4.1.0
+flake8==6.0.0
